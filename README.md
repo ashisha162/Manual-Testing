@@ -1,1 +1,1 @@
-# Manual-Testing-Instagram
+# Manual-Testing
